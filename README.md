@@ -1,4 +1,9 @@
 # Kubernetes
+---------
+修改了 cert.go 将证书过期时间调整为 50年。
+from fei.wang
+
+----------
 
 [![GoDoc Widget]][GoDoc] [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/569/badge)](https://bestpractices.coreinfrastructure.org/projects/569)
 
