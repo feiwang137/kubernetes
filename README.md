@@ -1,7 +1,7 @@
 # Kubernetes
 ---------
 修改了 cert.go 将证书过期时间调整为 50年。
-from fei.wang 20230915
+from: fei.wang 20230915
 
 ----------
 
